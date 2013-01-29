@@ -10,7 +10,7 @@ A plugin to easily present source code on your site with syntax highlighting and
 
 == Description ==
 
-iG:Syntax Hiliter allows you to post source code to your site with syntax highlighting and formatting  (as seen in code editors, IDEs). You can paste the code as is from your code editor or IDE and this plugin will take care of all the code colouring and preserve your formatting. It uses the [GeSHi library](http://qbnz.com/highlighter/) to colourize your code and supports over a 100 programming languages. Most common languages are included with the plugin and it includes drop in support for more languages used by GeSHi.
+**iG:Syntax Hiliter** allows you to post source code to your site with syntax highlighting and formatting  (as seen in code editors, IDEs). You can paste the code as is from your code editor or IDE and this plugin will take care of all the code colouring and preserve your formatting. It uses the [GeSHi library](http://qbnz.com/highlighter/) to colourize your code and supports over a 100 programming languages. Most common languages are included with the plugin and it includes drop in support for more languages used by GeSHi.
 
 Github: https://github.com/coolamit/ig-syntax-hiliter
 
@@ -29,7 +29,7 @@ Just deactivate plugin in WordPress admin, delete the syntax_hilite.php and gesh
 
 ###Installing The Plugin###
 
-Extract all files from the zip file and then upload it to `/wp-content/plugins/`. **Make sure to keep the file/folder structure intact**
+Extract all files from the zip file and then upload it to `/wp-content/plugins/`. **Make sure to keep the file/folder structure intact.**
 
 Go to WordPress admin section, click on "Plugins" in the menu bar and then click "Activate" link under "iG:Syntax Hiliter".
 
