@@ -138,6 +138,11 @@ Please feel free to suggest a new feature. Its inclusion might be speedier if yo
 
 Changelog of versions prior to v3.0 is available in the [manual](http://plugins.svn.wordpress.org/igsyntax-hiliter/trunk/MANUAL.txt).
 
+== Upgrade Notice ==
+
+= 4.1 =
+This version fixes a security related bug and a PHP 5.2 compatibility bug. Upgrade immediately.
+
 
 
 
