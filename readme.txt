@@ -20,7 +20,7 @@ WordPress.org plugin repo: http://plugins.svn.wordpress.org/igsyntax-hiliter/
 
 ###UPGRADING from v4.0 or later###
 
-Just deactivate plugin in WordPress admin, delete the "ig-syntax-hiliter" directory from plugins folder and follow the INSTALLATION process again. That's quite easy!!
+Just click on the update plugin link on the WordPress admin plugins page and WordPress will take care of the upgradation. Its like upgrading any other plugin from wordpress.org plugin repo. That's quite easy!!
 
 ###UPGRADING from v3.x###
 
