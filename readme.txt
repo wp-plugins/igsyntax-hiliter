@@ -2,7 +2,7 @@
 Contributors: amit
 Tags: syntax highlighter, code highlighter, code, source code, php, mysql, html, css, javascript
 Requires at least: 3.3
-Tested up to: 3.6
+Tested up to: 3.8
 Stable tag: trunk
 License: GPLv2
 
