@@ -14,7 +14,8 @@ A plugin to easily present source code on your site with syntax highlighting and
 
 **NOTE :** For fast results and less load on your server, you should have a cache plugin installed. That way the plugin won't have to parse the code blocks on a post every time its loaded in browser.
 
-**Minimum Requirements**
+= Minimum Requirements =
+
 * WordPress 4.1 or above
 * PHP 5.3 or above
 
