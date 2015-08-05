@@ -24,8 +24,6 @@ Pull requests are welcome on Github.
 
 Github: https://github.com/coolamit/ig-syntax-hiliter
 
-WordPress.org plugin repo: http://plugins.svn.wordpress.org/igsyntax-hiliter/
-
 == Installation ==
 
 ###UPGRADING from v4.0 or later###
